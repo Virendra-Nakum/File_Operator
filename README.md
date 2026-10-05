@@ -37,9 +37,9 @@ python --version
 ```text
 .
 ├── README.md
+├── journal.txt
 ├── main.py
-├── output.png   
-└── journal.txt          
+└── output.png      
 ```
 
 ## Sample Output
